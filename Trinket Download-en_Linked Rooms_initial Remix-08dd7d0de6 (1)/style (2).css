@@ -1,0 +1,70 @@
+body {
+  font-family: Impact;
+  background-color:;
+}
+
+.roomname {
+  font-size: 30px;
+  text-align: center;
+}
+
+.room {
+  position: relative;
+  height: 200px;
+  border: 1px solid black;
+  background:url("space-invader.png");
+}
+
+.room2{
+  position: relative;
+  height: 200px;
+  border: 1px solid black;
+}
+
+.description {
+  padding: 10px;
+}
+
+#tvroom{
+  width:50; 
+  height:100;
+  background-color:burlywood;
+  border:10px ridge burlywood;
+  border-bottom:none;
+  position:absolute;
+  bottom:0;
+  left:10px;
+}
+ 
+ #gameroom{
+  width:50px; 
+  height:100px;
+  background-color:burlywood;
+  border:10px ridge burlywood;
+  border-bottom:none;
+  position:absolute;
+  bottom:0;
+  right:10px;
+  font-size:12;
+}
+ 
+#tv{
+  width:100px;
+  height:100px;
+  background-color:#f0f0f0;
+  border:4px ridge #f0f0f0;
+  border-bottom:10px ridge black;
+  position:absolute;
+  bottom:3px;
+  left:50px;
+} 
+
+
+ 
+
+
+
+
+
+
+
